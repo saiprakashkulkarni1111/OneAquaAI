@@ -1,0 +1,8 @@
+{
+  "name": "OneAquaAI - Urban Freshwater & One Health Intelligence",
+  "description": "Citizen-powered urban freshwater and One Health intelligence platform for the IEEE OneAquaHealth Hackathon 2026.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
